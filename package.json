@@ -1,0 +1,23 @@
+{
+  "name": "sse.io",
+  "version": "1.0.0",
+  "description": "server-sent events implementation for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+    "lib/"
+  ],
+  "repository": "haoxins/sse.io",
+  "keywords": [
+    "server-sent",
+    "source",
+    "events",
+    "event",
+    "sse"
+  ],
+  "author": "haoxin",
+  "license": "MIT",
+}
